@@ -1,0 +1,41 @@
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] [QQEX] process.execPath:/opt/QQ/qq
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] [QQEX] process.execPath:/opt/QQ/qq
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] 不存在 /home/Frankie/.config/QQ/versions/config.json，将自动创建。内容为：
+{
+  "baseVersion": "3.2.28-48517",
+  "curVersion": "3.2.28-48517",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "48517",
+  "unzipRetryCount": 0
+}
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] launcherCounts 写入成功: 1
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] /home/Frankie/.config/QQ/versions/3.2.28-48517.zip 不存在，无需执行解压操作
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] use path/opt/QQ/resources/app/application.asar
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application.asar/background.js
+[19e6ebf398d][5/28/2026, 9:21:26 PM][INFO] 
+---------- 成功的分割线 ----------
+
+
+[19e6ebfdbfb][2026/5/28 21:22:07][INFO] /home/Frankie/.config/QQ/versions/config.json 存在
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] [QQEX] process.execPath:/opt/QQ/qq
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] [QQEX] process.execPath:/opt/QQ/qq
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] launcherCounts 写入成功: 1
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] /home/Frankie/.config/QQ/versions/3.2.28-48517.zip 不存在，无需执行解压操作
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] use path/opt/QQ/resources/app/application.asar
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application.asar/background.js
+[19e6ebfdbfb][2026/5/28 21:22:08][INFO] 
+---------- 成功的分割线 ----------
+
+
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] /home/Frankie/.config/QQ/versions/config.json 存在
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] [QQEX] process.execPath:/opt/QQ/qq
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] [QQEX] process.execPath:/opt/QQ/qq
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] launcherCounts 写入成功: 1
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] /home/Frankie/.config/QQ/versions/3.2.28-48517.zip 不存在，无需执行解压操作
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] use path/opt/QQ/resources/app/application.asar
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application.asar/background.js
+[19e6ebffdd9][2026/5/28 21:22:16][INFO] 
+---------- 成功的分割线 ----------
+
+

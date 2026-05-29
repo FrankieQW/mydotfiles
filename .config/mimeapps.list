@@ -1,0 +1,11 @@
+[Default Applications]
+x-scheme-handler/clash=clash-verge.desktop;
+x-scheme-handler/clash-verge=clash-verge.desktop;
+text/markdown=obsidian.desktop
+image/png=org.nomacs.ImageLounge.desktop
+
+[Added Associations]
+text/markdown=obsidian.desktop;
+x-scheme-handler/clash=clash-verge.desktop;
+x-scheme-handler/clash-verge=clash-verge.desktop;
+image/png=org.nomacs.ImageLounge.desktop;

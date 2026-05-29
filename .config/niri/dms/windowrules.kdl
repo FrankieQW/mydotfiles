@@ -1,0 +1,9 @@
+window-rule {
+  match app-id="waypaper"
+
+  open-floating true
+}
+window-rule {
+  opacity 0.9
+  draw-border-with-background true
+}

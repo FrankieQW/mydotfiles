@@ -1,0 +1,8 @@
+{"timestamp":686217,"category":"profiles.new","name":"displayed","extra":{"glean_timestamp":"1778131938041"}}
+{"timestamp":686285,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1778131938109"}}
+{"timestamp":688252,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1778131940076"}}
+{"timestamp":690410,"category":"profiles.new","name":"alert","extra":{"glean_timestamp":"1778131942234","value":"leave"}}
+{"timestamp":138694,"category":"glean","name":"restarted","extra":{"glean.startup.date":"2026-05-09T22:02+08:00","glean_timestamp":"1778335364534"},"execution_counter":1}
+{"timestamp":133522,"category":"profiles.delete","name":"displayed","extra":{"glean_timestamp":"1778335359361"},"execution_counter":1}
+{"timestamp":136486,"category":"profiles.delete","name":"confirm","extra":{"glean_timestamp":"1778335362325"},"execution_counter":1}
+{"timestamp":138663,"category":"profiles.default","name":"updated","extra":{"glean_timestamp":"1778335364502"},"execution_counter":1}
